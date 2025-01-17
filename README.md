@@ -48,3 +48,7 @@ Start the server:
 npm run dev
 
 The frontend will be available at http://localhost:3000
+
+add .env file
+
+NEXT_PUBLIC_API_URL=http://localhost:3001
