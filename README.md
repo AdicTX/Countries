@@ -37,7 +37,7 @@ The backend will be available at http://localhost:3001
 
 Navigate to the frontend directory:
 
-cd front
+cd country-info-app
 
 Install dependencies:
 
